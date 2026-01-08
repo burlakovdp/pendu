@@ -1,0 +1,6 @@
+pendu
+*.o
+*.a
+a.out
+.DS_Store
+.vscode/
