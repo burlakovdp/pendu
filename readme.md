@@ -4,6 +4,6 @@ A classic Hangman game written in C using my own custom library (Libft). The gam
 
 ## How to play
 
-1. Compile the game:
+Compile the game:
    ```bash
    make
